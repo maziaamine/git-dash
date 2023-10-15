@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 echo hello world amine mazia
+=======
+echo hello world
+echo hello word
+>>>>>>> a44e34bd20f59bd2e9cf1331cc2541072fa41e59
